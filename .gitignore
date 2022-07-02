@@ -1,1 +1,11 @@
+# Ignoring text files from cli section
 *.txt
+# Ignoring generated nuxt files
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
