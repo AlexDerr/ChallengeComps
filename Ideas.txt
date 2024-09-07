@@ -1,0 +1,5 @@
+random comp selector
+- Roles would help this a lot
+- have the ability to not include champs
+
+Have list of challenges have a hover to say what counts for them

@@ -1,5 +1,5 @@
 # Ignoring text files from cli section
-*.txt
+cli/*.txt
 # Ignoring generated nuxt files
 node_modules
 *.log*
