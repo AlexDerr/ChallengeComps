@@ -4,7 +4,7 @@ import time
 import itertools
 from collections import Counter
 
-MIN_CHALLENGES = 7
+MIN_CHALLENGES = 5
 
 if __name__ == "__main__":
 	with open("data/all_champ_list.json", "r") as f:
@@ -84,11 +84,11 @@ if __name__ == "__main__":
 			challenges.append("Chemtech Comrades")
 		if(counts["assassin"] >= 5 or counts["mage"] >= 5 or counts["marksman"] >= 5 or counts["tank"] >= 5
 			or counts["support"] >= 5 or counts["figher"] >= 5):
-			challenges.append("oneClass")
+			challenges.append("Variety's Overrated")
 
 		# Only saving the compositions that counts for x or more challenges to save on memory and storage requirements if needed
 		# Make this CLI input
-		if(len(challenges) > 3):
+		if(len(challenges) >= MIN_CHALLENGES):
 			compsDict[str(comp)] = challenges
 
 		compsChecked += 1
@@ -99,7 +99,7 @@ if __name__ == "__main__":
 	sort_start = time.time()
 
 	# Sorting the list of compositions by the number of challenges they count for and printing that list to a file
-	with open("data/comps.txt", "w") as f:
+	with open("comps.txt", "w") as f:
 		sys.stdout = f
 		for k in sorted(compsDict, key=lambda k: len(compsDict[k]), reverse=True):
 			print(str(len(compsDict[k])) + ": " + k + " : " + str(compsDict[k]))
