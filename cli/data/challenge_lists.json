@@ -129,5 +129,62 @@
 		"Skarner", "Smolder", "Sona", "Swain", "Talon", "Twitch", "Vel'Koz", 
 		"Viktor", "Vladimir", "Volibear", "Xayah", "Xin Zhao", "Yone", "Yuumi", 
 		"Zac", "Zeri", "Ziggs", "Zyra"
+	],
+	"assassin": [
+		"Ahri", "Akali", "Akshan", "Aurora", "Briar", "Camille", "Diana", 
+		"Ekko", "Elise", "Evelynn", "Fiora", "Fizz", "Irelia", "Kassadin", 
+		"Katarina", "Kayn", "Kha'Zix", "LeBlanc", "Lee Sin", "Lucian", "Master Yi", 
+		"Naafiri", "Nidalee", "Nilah", "Nocturne", "Pantheon", "Pyke", "Qiyana", 
+		"Quinn", "Rengar", "Riven", "Samira", "Shaco", "Sylas", "Talon", 
+		"Tristana", "Tryndamere", "Twitch", "Vayne", "Vi", "Viego", "Yasuo", 
+		"Yone", "Zed"
+	],
+	"fighter": [
+		"Aatrox", "Bel'Veth", "Briar", "Camille", "Darius", "Diana", "Dr. Mundo", 
+		"Fiora", "Fizz", "Gangplank", "Garen", "Gnar", "Gragas", "Gwen", 
+		"Hecarim", "Illaoi", "Irelia", "Jarvan IV", "Jax", "Jayce", "K'Sante", 
+		"Kayn", "Kled", "Lee Sin", "Lillia", "Master Yi", "Mordekaiser", "Naafiri", 
+		"Nasus", "Nilah", "Nocturne", "Olaf", "Pantheon", "Poppy", "Rek'Sai", 
+		"Renekton", "Rengar", "Riven", "Rumble", "Sett", "Shyvana", "Sion", 
+		"Skarner", "Trundle", "Tryndamere", "Udyr", "Urgot", "Vi", "Viego", 
+		"Vladimir", "Volibear", "Warwick", "Wukong", "Xin Zhao", "Yasuo", "Yone", 
+		"Yorick", "Zac"
+	],
+	"mage": [
+		"Ahri", "Anivia", "Annie", "Aurelion Sol", "Aurora", "Azir", "Bard", 
+		"Brand", "Cassiopeia", "Cho'Gath", "Corki", "Ekko", "Elise", "Evelynn", 
+		"Ezreal", "Fiddlesticks", "Galio", "Gragas", "Heimerdinger", "Hwei", "Ivern", 
+		"Janna", "Jhin", "Kai'Sa", "Karma", "Karthus", "Kassadin", "Katarina", 
+		"Kayle", "Kennen", "Kog'Maw", "LeBlanc", "Lillia", "Lissandra", "Lulu", 
+		"Lux", "Malphite", "Malzahar", "Milio", "Miss Fortune", "Mordekaiser", "Morgana", 
+		"Nami", "Neeko", "Nidalee", "Nunu & Willump", "Orianna", "Renata Glasc", "Rumble", 
+		"Ryze", "Seraphine", "Shyvana", "Singed", "Smolder", "Sona", "Soraka", 
+		"Swain", "Sylas", "Syndra", "Taliyah", "Teemo", "Twisted Fate", "Varus", 
+		"Veigar", "Vel'Koz", "Vex", "Viktor", "Vladimir", "Xerath", "Yuumi", 
+		"Ziggs", "Zilean", "Zoe", "Zyra"
+	],
+	"marksman": [
+		"Akshan", "Aphelios", "Ashe", "Azir", "Caitlyn", "Corki", "Draven", 
+		"Ezreal", "Graves", "Jayce", "Jhin", "Jinx", "Kai'Sa", "Kalista", 
+		"Kayle", "Kindred", "Kog'Maw", "Lucian", "Miss Fortune", "Quinn", "Samira", 
+		"Senna", "Sivir", "Smolder", "Teemo", "Tristana", "Twisted Fate", "Twitch", 
+		"Varus", "Vayne", "Xayah", "Zeri"
+	],
+	"support": [
+		"Alistar", "Amumu", "Annie", "Ashe", "Bard", "Blitzcrank", "Brand", 
+		"Braum", "Fiddlesticks", "Heimerdinger", "Hwei", "Ivern", "Janna", "Karma", 
+		"Leona", "Lulu", "Lux", "Maokai", "Milio", "Morgana", "Nami", 
+		"Nautilus", "Neeko", "Orianna", "Pyke", "Rakan", "Rell", "Renata Glasc", 
+		"Senna", "Seraphine", "Sona", "Soraka", "Swain", "Tahm Kench", "Taliyah", 
+		"Taric", "Thresh", "Vel'Koz", "Xerath", "Yuumi", "Zilean", "Zyra"
+	],
+	"tank": [
+		"Alistar", "Amumu", "Blitzcrank", "Braum", "Cho'Gath", "Darius", "Dr. Mundo", 
+		"Galio", "Garen", "Gnar", "Hecarim", "Illaoi", "Jarvan IV", "K'Sante", 
+		"Leona", "Malphite", "Maokai", "Nasus", "Nautilus", "Nunu & Willump", "Olaf", 
+		"Ornn", "Poppy", "Rammus", "Rek'Sai", "Rell", "Renekton", "Sejuani", 
+		"Sett", "Shen", "Singed", "Sion", "Skarner", "Tahm Kench", "Taric", 
+		"Thresh", "Trundle", "Udyr", "Urgot", "Volibear", "Warwick", "Wukong", 
+		"Xin Zhao", "Yorick", "Zac"
 	]
 }

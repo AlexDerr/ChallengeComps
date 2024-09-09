@@ -10,6 +10,7 @@ urllib3.disable_warnings()
 
 HARMONY_CHALLENGE_ID = "303400"
 GLOBETROTTER_CHALLENGE_ID = "303500"
+CLASS_CHALLENGE_IDS = ["501007", "501008", "501009", "501010", "501011", "501012"]
 ENTRY_PER_LINE = 7
 
 
@@ -64,8 +65,8 @@ if __name__ == "__main__":
 
     # with open("data/raw_champion_data.json", "w") as f:
     #         f.write(json.dumps(champion_data_response, indent=4))
-    # with open("data/champion_dict.json", "w") as f:
-    #         f.write(json.dumps(champion_id_dict, indent=4))
+    with open("data/champion_dict.json", "w") as f:
+            f.write(json.dumps(champion_id_dict, indent=4))
 
     challenge_response = requests.get(
         f"https://127.0.0.1:{app_port}/lol-challenges/v1/challenges/local-player",
@@ -78,8 +79,8 @@ if __name__ == "__main__":
     )
 
     raw_challenge_dict = json.loads(challenge_response.text)
-    # with open("data/challenge_data.json", "w") as f:
-    #         f.write(json.dumps(challenge_data_dict, indent=4))
+    with open("data/challenge_data.json", "w") as f:
+            f.write(json.dumps(raw_challenge_dict, indent=4))
 
     if (HARMONY_CHALLENGE_ID not in raw_challenge_dict 
         or GLOBETROTTER_CHALLENGE_ID not in raw_challenge_dict
