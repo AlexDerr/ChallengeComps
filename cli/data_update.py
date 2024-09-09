@@ -88,18 +88,21 @@ if __name__ == "__main__":
         sys.exit()
 
     processed_challenge_dict = {}
-
-    all_champ_list = [champion_id_dict[key] for key in champion_id_dict]
-    all_champ_list.sort()
-    processed_challenge_dict["allChampList"] = all_champ_list
-
     for challenge_id in raw_challenge_dict[HARMONY_CHALLENGE_ID]["childrenIds"] + raw_challenge_dict[GLOBETROTTER_CHALLENGE_ID]["childrenIds"]:
         champion_ids = raw_challenge_dict[str(challenge_id)]["availableIds"]
         champion_names = [champion_id_dict[champion_id] for champion_id in champion_ids if champion_id < 3000]
         processed_challenge_dict[raw_challenge_dict[str(challenge_id)]["name"]] = champion_names
 
+    # It has ultimate in the name has double quotes in the name so adjust it to work in json
     processed_challenge_dict["It Has Ultimate In the Name!"] = processed_challenge_dict.pop('It Has "Ultimate" In the Name!')
-    pretty_processed_str = pretty_str(processed_challenge_dict)
+    pretty_challenge_list_str = pretty_str(processed_challenge_dict)
 
-    with open("data/input_data.json", "w") as f:
-        f.write(pretty_processed_str)
+    with open("data/challenge_lists.json", "w") as f:
+        f.write(pretty_challenge_list_str)
+
+    all_champ_list = [champion_id_dict[key] for key in champion_id_dict]
+    all_champ_list.sort()
+    pretty_all_champ_list_str = pretty_str({"all_champ_list": all_champ_list})
+
+    with open("data/all_champ_list.json", "w") as f:
+        f.write(pretty_all_champ_list_str)

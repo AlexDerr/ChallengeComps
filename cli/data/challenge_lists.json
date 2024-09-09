@@ -1,0 +1,133 @@
+{
+	"Hold That Pose": [
+		"Aatrox", "Alistar", "Amumu", "Anivia", "Bard", "Blitzcrank", "Braum", 
+		"Briar", "Camille", "Galio", "Gnar", "Gragas", "Hecarim", "Ivern", 
+		"Janna", "Jarvan IV", "K'Sante", "Kled", "LeBlanc", "Leona", "Lissandra", 
+		"Lulu", "Maokai", "Morgana", "Nami", "Nautilus", "Neeko", "Nunu & Willump", 
+		"Ornn", "Poppy", "Pyke", "Qiyana", "Rakan", "Rammus", "Rell", 
+		"Renata Glasc", "Riven", "Sejuani", "Seraphine", "Sett", "Shaco", "Singed", 
+		"Sion", "Skarner", "Tahm Kench", "Thresh", "Urgot", "Vi", "Warwick", 
+		"Xin Zhao", "Yasuo", "Yone", "Zac", "Zyra"
+	],
+	"It's a Trap!": [
+		"Caitlyn", "Gangplank", "Jhin", "Jinx", "Maokai", "Nidalee", "Shaco", 
+		"Teemo", "Ziggs", "Zyra"
+	],
+	"I'm Helping": [
+		"Anivia", "Aurora", "Azir", "Irelia", "Ivern", "Jarvan IV", "Ornn", 
+		"Taliyah", "Trundle", "Veigar", "Yorick"
+	],
+	"We Protec": [
+		"Alistar", "Annie", "Bard", "Briar", "Fiora", "Galio", "Hwei", 
+		"Ivern", "Janna", "K'Sante", "Karma", "Kayle", "Kindred", "Lee Sin", 
+		"Lulu", "Lux", "Milio", "Morgana", "Naafiri", "Nami", "Nidalee", 
+		"Nilah", "Orianna", "Rakan", "Renata Glasc", "Senna", "Seraphine", "Shen", 
+		"Skarner", "Sona", "Soraka", "Tahm Kench", "Taric", "Thresh", "Yuumi", "Zilean"
+	],
+	"Nowhere to Hide": [
+		"Akshan", "Ashe", "Aurelion Sol", "Bard", "Briar", "Caitlyn", "Draven", 
+		"Ezreal", "Galio", "Gangplank", "Jhin", "Jinx", "Kai'Sa", "Karthus", 
+		"Kled", "Lillia", "Lux", "Maokai", "Nocturne", "Pantheon", "Ryze", 
+		"Senna", "Shen", "Sion", "Smolder", "Soraka", "Swain", "Taliyah", 
+		"Twisted Fate", "Vex", "Xerath", "Ziggs"
+	],
+	"We're Good Over Here": [
+		"Akshan", "Ashe", "Aurora", "Azir", "Caitlyn", "Cho'Gath", "Corki", 
+		"Dr. Mundo", "Ezreal", "Gangplank", "Hwei", "Jayce", "Jhin", "Jinx", 
+		"Kai'Sa", "Karma", "Kled", "Kog'Maw", "Lux", "Maokai", "Milio", 
+		"Nidalee", "Pantheon", "Senna", "Seraphine", "Shyvana", "Sivir", "Smolder", 
+		"Taliyah", "Twisted Fate", "Varus", "Vel'Koz", "Vex", "Viktor", "Xayah", 
+		"Xerath", "Yuumi", "Zeri", "Ziggs", "Zoe"
+	],
+	"Summoners on the Rift": [
+		"Annie", "Azir", "Bel'Veth", "Elise", "Fiddlesticks", "Heimerdinger", "Illaoi", 
+		"Ivern", "Kalista", "Kindred", "Lissandra", "Malzahar", "Maokai", "Naafiri", 
+		"Neeko", "Orianna", "Shaco", "Yorick", "Zed", "Zyra"
+	],
+	"They Just... Don't... DIE!": [
+		"Akshan", "Alistar", "Anivia", "Bard", "Bel'Veth", "Braum", "Ekko", 
+		"Elise", "Evelynn", "Fiora", "Fizz", "Gwen", "Jax", "K'Sante", 
+		"Kalista", "Karthus", "Kayle", "Kayn", "Kindred", "Kled", "Kog'Maw", 
+		"Lissandra", "Malzahar", "Maokai", "Master Yi", "Olaf", "Pantheon", "Renata Glasc", 
+		"Sion", "Tahm Kench", "Taric", "Tryndamere", "Vladimir", "Xin Zhao", "Yuumi", 
+		"Zac", "Zed", "Zilean"
+	],
+	"Where'd They Go?": [
+		"Akali", "Akshan", "Evelynn", "Kai'Sa", "Kha'Zix", "LeBlanc", "Neeko", 
+		"Nocturne", "Pyke", "Qiyana", "Rengar", "Senna", "Shaco", "Talon", 
+		"Teemo", "Twitch", "Vayne", "Viego", "Wukong"
+	],
+	"Variety's Overrated": [	],
+	"Get Over Here": [
+		"Alistar", "Azir", "Blitzcrank", "Darius", "Gnar", "Gragas", "Hecarim", 
+		"Janna", "Jayce", "K'Sante", "Kled", "Lee Sin", "Maokai", "Mordekaiser", 
+		"Nautilus", "Nilah", "Orianna", "Poppy", "Pyke", "Rell", "Sett", 
+		"Singed", "Skarner", "Swain", "Tahm Kench", "Taliyah", "Thresh", "Tristana", 
+		"Urgot", "Vayne", "Xin Zhao", "Yone", "Zac", "Ziggs"
+	],
+	"5 Under 5'": [
+		"Corki", "Fizz", "Gnar", "Heimerdinger", "Kennen", "Kled", "Lulu", 
+		"Poppy", "Rumble", "Teemo", "Tristana", "Veigar", "Vex", "Yuumi", "Ziggs"
+	],
+	"All Hands on Deck": [
+		"Fizz", "Gangplank", "Graves", "Illaoi", "Miss Fortune", "Nautilus", "Nilah", 
+		"Pyke", "Tahm Kench", "Twisted Fate"
+	],
+	"FOR DEMACIA": [
+		"Fiora", "Galio", "Garen", "Jarvan IV", "Kayle", "Lucian", "Lux", 
+		"Morgana", "Poppy", "Quinn", "Shyvana", "Sona", "Sylas", "Vayne", "Xin Zhao"
+	],
+	"Calculated": [
+		"Caitlyn", "Camille", "Corki", "Ezreal", "Heimerdinger", "Jayce", "Orianna", 
+		"Seraphine", "Vi"
+	],
+	"Spooky Scary Skeletons": [
+		"Elise", "Fiddlesticks", "Gwen", "Hecarim", "Kalista", "Karthus", "Maokai", 
+		"Senna", "Thresh", "Vex", "Viego", "Yorick"
+	],
+	"The Sun Disc Never Sets": [
+		"Akshan", "Amumu", "Azir", "K'Sante", "Naafiri", "Nasus", "Rammus", 
+		"Renekton", "Sivir", "Taliyah", "Xerath", "Zilean"
+	],
+	"Peak Performance": [
+		"Aphelios", "Aurelion Sol", "Diana", "Leona", "Pantheon", "Soraka", "Taric", "Zoe"
+	],
+	"Ice, Ice, Baby": [
+		"Anivia", "Ashe", "Aurora", "Braum", "Gnar", "Gragas", "Lissandra", 
+		"Nunu & Willump", "Olaf", "Ornn", "Sejuani", "Trundle", "Tryndamere", "Udyr", "Volibear"
+	],
+	"Everybody was Wuju Fighting": [
+		"Ahri", "Akali", "Hwei", "Irelia", "Ivern", "Jhin", "Karma", 
+		"Kayn", "Kennen", "Lee Sin", "Lillia", "Master Yi", "Rakan", "Sett", 
+		"Shen", "Syndra", "Varus", "Wukong", "Xayah", "Yasuo", "Yone", "Zed"
+	],
+	"Elemental, My Dear Watson": [
+		"Malphite", "Milio", "Neeko", "Nidalee", "Qiyana", "Rengar", "Skarner", "Zyra"
+	],
+	"Strength Above All": [
+		"Briar", "Cassiopeia", "Darius", "Draven", "Katarina", "Kled", "LeBlanc", 
+		"Mordekaiser", "Rell", "Riven", "Samira", "Sion", "Swain", "Talon", "Vladimir"
+	],
+	"(Inhuman Screeching Sounds)": [
+		"Bel'Veth", "Cho'Gath", "Kai'Sa", "Kassadin", "Kha'Zix", "Kog'Maw", "Malzahar", 
+		"Rek'Sai", "Vel'Koz"
+	],
+	"Chemtech Comrades": [
+		"Blitzcrank", "Dr. Mundo", "Ekko", "Janna", "Jinx", "Renata Glasc", "Singed", 
+		"Twitch", "Urgot", "Viktor", "Warwick", "Zac", "Zeri", "Ziggs"
+	],
+	"It Has Ultimate In the Name!": [
+		"Amumu", "Anivia", "Annie", "Aurelion Sol", "Aurora", "Azir", "Bard", 
+		"Bel'Veth", "Blitzcrank", "Braum", "Briar", "Cassiopeia", "Corki", "Diana", 
+		"Draven", "Ekko", "Evelynn", "Ezreal", "Fiddlesticks", "Fizz", "Galio", 
+		"Gangplank", "Gnar", "Gragas", "Graves", "Hecarim", "Heimerdinger", "Hwei", 
+		"Illaoi", "Janna", "Jarvan IV", "Jinx", "Karthus", "Katarina", "Kayle", 
+		"Kennen", "Leona", "Lissandra", "Lux", "Malphite", "Maokai", "Milio", 
+		"Miss Fortune", "Morgana", "Nami", "Neeko", "Nilah", "Nunu & Willump", "Orianna", 
+		"Ornn", "Pantheon", "Qiyana", "Rakan", "Rammus", "Rell", "Renata Glasc", 
+		"Riven", "Rumble", "Samira", "Sejuani", "Senna", "Seraphine", "Sett", 
+		"Skarner", "Smolder", "Sona", "Swain", "Talon", "Twitch", "Vel'Koz", 
+		"Viktor", "Vladimir", "Volibear", "Xayah", "Xin Zhao", "Yone", "Yuumi", 
+		"Zac", "Zeri", "Ziggs", "Zyra"
+	]
+}
