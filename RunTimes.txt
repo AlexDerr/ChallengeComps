@@ -2,3 +2,8 @@ K'Sante:
     Comps Checked: 988000000
     List gen time:  4925.27849984169
     Sort time:  0.09346818923950195
+
+Aurora:
+    Comps Checked: 1050000000
+    List gen time: 5796.0016396045685
+    Sort time: 241.270660161972046
