@@ -95,6 +95,14 @@ if __name__ == "__main__":
 
     # It has ultimate in the name has double quotes in the name so adjust it to work in json
     processed_challenge_dict["It Has Ultimate In the Name!"] = processed_challenge_dict.pop('It Has "Ultimate" In the Name!')
+
+    # Get all the list of champions per class
+    for challenge_id in CLASS_CHALLENGE_IDS:
+        champion_ids = raw_challenge_dict[str(challenge_id)]["availableIds"]
+        champion_names = [champion_id_dict[champion_id] for champion_id in champion_ids if champion_id < 3000]
+        class_name = raw_challenge_dict[str(challenge_id)]["name"][:-11].lower()
+        processed_challenge_dict[class_name] = champion_names
+
     pretty_challenge_list_str = pretty_str(processed_challenge_dict)
 
     with open("data/challenge_lists.json", "w") as f:
