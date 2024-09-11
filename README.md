@@ -10,31 +10,31 @@ The output of `ChallengeComps.py` is a text file `comps.txt` containing team com
 ```
 
 5-stack challenges that are considered by this tool and the output that correlates to them
-- aoe - It Has "Ultimate In the Name!
-- heal - We Protec
-- poke - We're Good Over Here
-- displacement - Get Over Here
-- globals - Nowhere to Hide
-- revive - They Just... Don't... DIE!
-- immobilizing - Hold That Pose
-- stealth - Where'd They Go?
-- summon - Summoners on the Rift
-- trap - It's a Trap!
-- terrain - I'm Helping
-- shurima - The Sun Disc Never Sets
-- ionia - Everybody was Wuju Fighting
-- bandle - 5 under 5'
-- bilgewater - All Hands on Deck
-- demacia - FOR DEMACIA
-- freljord - Ice, Ice, Baby
-- ixtal - Elemental, My Dear Watson
-- noxus - Strength Above All
-- piltover - Calculated
-- shadowIsles - Spooky Scary Skeletons
-- targon - Peak Performance
-- void - (Inhuman Screeching Sounds)
-- zaun - Chemtech Comrades
-- oneClass - Variety's Overrated
+- It Has Ultimate In the Name!
+- We Protec
+- We're Good Over Here
+- Get Over Here
+- Nowhere to Hide
+- They Just... Don't... DIE!
+- Hold That Pose
+- Where'd They Go?
+- Summoners on the Rift
+- It's a Trap!
+- I'm Helping
+- The Sun Disc Never Sets
+- Everybody was Wuju Fighting
+- 5 under 5'
+- All Hands on Deck
+- FOR DEMACIA
+- Ice, Ice, Baby
+- Elemental, My Dear Watson
+- Strength Above All
+- Calculated
+- Spooky Scary Skeletons
+- Peak Performance
+- (Inhuman Screeching Sounds)
+- Chemtech Comrades
+- Variety's Overrated
 
 5-stack challenges that are not considered by this tool
 - Any not on this list
