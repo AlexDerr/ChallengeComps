@@ -47,5 +47,8 @@ Then after those files are correctly populated, `challenge_comps.py` can be ran 
 ### Config
 Challenges that are completed can be filtered using `config.json`. A value of true means that it will be evaluated and included if the criteria is met, false means that the challenge will not be considered.
 
+## Shoutout
+A great tool for building compositions through a web UI can be found at: https://tahm-ken.ch/.
+
 ## Known Bugs
 - ** Unclear if this is still a bug after CLU API update, but was seen in previous versions ** Output not always sorted properly, the comp `('Bard', 'Maokai', 'Nidalee', 'Renata Glasc', 'Ziggs') : ['aoe', 'heal', 'poke', 'globals', 'revive', 'immobilizing', 'trap', 'oneClass']` shows up among the 7s although it counts for 8 in this current version. 
